@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab9ZPO</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="start">START</string>
+    <string name="h">h:</string>
+    <string name="m">m</string>
+    <string name="_0">0</string>
+    <string name="q">Q:</string>
+    <string name="_0_08">0.08</string>
+    <string name="_0_00_00">0:00:00</string>
+    <string name="m_3">m\u00B3</string>
+    <string name="v">V</string>
+
+</resources>
